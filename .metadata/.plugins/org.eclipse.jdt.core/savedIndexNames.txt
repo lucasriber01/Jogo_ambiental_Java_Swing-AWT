@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\FelipePamela\Desktop\pacman\.metadata\.plugins\org.eclipse.jdt.core
+1419014417.index
+3680418673.index
